@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect with me:
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/nitin-patel-b099b3299/]
 - 🧑‍💻 GitHub: [https://github.com/Nowayynitin](https://github.com/Nowayynitin)
 
 ---
